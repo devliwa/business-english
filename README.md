@@ -10,7 +10,7 @@
 - [the adjective and the adverb]()
 - [the preposition and the conjunction]()
 
-### part 2 composition: oral and written
+### part 2 - composition: oral and written
 - [oral english]()
 - [choosing subjects]()
 - [punctution]()
@@ -18,7 +18,7 @@
 - [the paragraph]()
 - [business letters]()
 
-### part 3 composition: business practice
+### part 3 - composition: business practice
 - [manufacture]()
 - [distribution]()
 - [advertising]()
