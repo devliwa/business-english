@@ -7,49 +7,7 @@ is an interesting word. Originally it was the name of a Greek god, who carried t
 
 ### Consult an unabridged dictionary for the origin of each of the following:
 
-#### rival - 
-origin: latin rialis ("one using the same stream"), from rivus ("stream").
-meaning evolition: Originally referred to people who used the same stream of water and thus often quarreled over it - later came to mean competitor or opponent.
-
-#### dollar - 
-origin: from the German Thaler (short for joachimsthaler), a silver coin first minted in joachimsthal, Bohemia (now jachymov, Czecn Republic).
-meaning evolution: The thaler spread across Europe and influenced many currencies; the English "dollar" became the name for U.S. currency in the 18th century.
-
-#### bankrupt - 
-
-#### cash - 
-
-#### mint -
-
-#### fortune - 
-
-#### finance - 
-
-#### milliner - 
-
-#### pullman - 
-
-#### grocer - 
-
-#### cereal - 
-
-#### china - 
-
-#### java - 
-
-#### cashmere - 
-
-macadam - 
-
-boycott -
-
-derrick - 
-
-mercury - 
-
-colossal - 
-
-turbine -
+( rival, dollar, bankrupt, cash, mint, fortune, finance, milliner, pullman, grocer, cereal, china, java, cashmere, macadam, boycott, derrick, mercury, colossal, turbine )
 
 ### 1. Rival
 
