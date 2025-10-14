@@ -2,7 +2,7 @@
 
 ### part 1 - word study and grammar
 - [01 interesting words](https://github.com/devliwa/business-english/tree/main/part%201%20-%20word%20study%20and%20grammar/01%20interesting%20words)
-- [02 pronunciation]()
+- [02 pronunciation](https://github.com/devliwa/business-english/tree/main/part%201%20-%20word%20study%20and%20grammar/02%20pronunciation)
 - [03 spelling rules]()
 - [04 word analysis]()
 - [05 the sentence and its elements]()
