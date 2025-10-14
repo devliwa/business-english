@@ -12,6 +12,7 @@ Then there is the habit of slurring syllables. We may understand what is meant b
 
 In the following exercises watch every vowel and every consonant so that you may give each one its full value.
 
+02 pronunciation
 
 - [Exercise 10]()
 - [Exercise 11]()
