@@ -5,7 +5,6 @@ When we discover a new word, it is important that we know exactly the quality to
 For this purpose, **diacritical marks** have been invented.  
 They are illustrated in the following list from *Webster’s International Dictionary.*
 
-> **Note:** Due to display limitations, `[+x]` is used to denote a letter with a tack above it.
 
 | Mark | Pronunciation Example | Description / Type of Sound |
 |------|------------------------|-----------------------------|
