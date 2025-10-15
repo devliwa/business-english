@@ -1,50 +1,71 @@
-## CHAPTER V
+# Chapter V: The Sentence and Its Elements
 
-#### THE SENTENCE AND ITS ELEMENTS
+In the preceding chapters, we have studied words individually—their pronunciation and how they were formed to express meaning. In this chapter, we begin a **review of grammar**, focusing on words **according to their use** as they are arranged to express complete ideas.
 
-In the preceding chapters we have seen words as they are used singly. We studied their pronunciation and the way in which they were formed to express a definite meaning. In this chapter we shall begin a review of grammar, a study of words not according to their pronunciation or their definition, but according to their use as they are arranged with other words to express complete ideas. The simplest group into which words are thus arranged is the sentence, consisting of two important parts, the subject and the predicate. The subject is the part about which something is told, and the predicate is the part that tells about the subject; as,
-Subject	Predicate
-The sun	shines brightly
-There are several different kinds of sentences, named according to the meaning which they express. They are as follows:
-The declarative sentence states a fact.
-The interrogative sentence asks a question.
-The imperative sentence commands or entreats.
-The exclamatory sentence expresses deep feeling.
+The simplest group of words arranged to express a complete idea is the **sentence**, consisting of two important parts:
 
-Illustrations
+| Subject | Predicate       |
+|---------|----------------|
+| The sun | shines brightly |
 
-Declarative: John closed the door.
+- **Subject**: The part about which something is told.  
+- **Predicate**: The part that tells something about the subject.
 
-Interrogative: Did John close the door?
+---
 
-Imperative: Close the door.
+## Kinds of Sentences (By Meaning)
 
-Exclamatory: What a noise the door made!
+1. **Declarative sentence** – States a fact.  
+   *Example:* John closed the door.
 
-Sentences are classified, also, according to their structure or form. If a sentence has one subject and one predicate, it is a simple sentence. If it is made up of two independent parts, it is a compound sentence. If it has one independent part and one or more dependent parts, each of which contains a subject and a predicate of its own, the sentence is complex. The independent part of the sentence is called a principal clause, and the dependent part is called a subordinate clause. A phrase is also a dependent part of a sentence, but it differs from a subordinate clause in that it contains no subject or predicate. Both phrases and subordinate clauses are used as parts of speech, as nouns, adjectives, or adverbs. Thus we have the following definitions:
+2. **Interrogative sentence** – Asks a question.  
+   *Example:* Did John close the door?
 
-A simple sentence contains one principal clause.
-A compound sentence contains two or more principal clauses.
+3. **Imperative sentence** – Commands or entreats.  
+   *Example:* Close the door.
 
-A complex sentence contains one principal clause and one or more subordinate clauses.
+4. **Exclamatory sentence** – Expresses deep feeling.  
+   *Example:* What a noise the door made!
 
-A phrase is a group of related words used as a part of speech. (See Exercises 68 and 69.)
+---
 
-A clause is a group of words containing a subject and a predicate. A subordinate clause is used as a part of speech. It usually has an introductory word to distinguish it from a principal clause. (See Exercise 71.)
+## Sentences (By Structure)
 
-Illustrations
+Sentences are also classified according to **form or structure**:
 
-Simple sentence: To-day most of the world's big questions are business questions.
+- **Simple sentence**: Contains one subject and one predicate (one principal clause).  
+  *Example:* To-day most of the world's big questions are business questions.
 
-Complex sentence: The view that business is only humdrum routine and sordid money-making needs revising, since most of the world's big questions are business questions.
+- **Compound sentence**: Made up of two or more independent parts (principal clauses).  
+  *Example:* Many people still belittle business, calling it humdrum routine and sordid money-making, but this view needs revising.
 
-Compound sentence: Many people still belittle business, calling it humdrum routine and sordid money-making, but this view needs revising.
+- **Complex sentence**: Contains one principal clause and one or more subordinate clauses.  
+  *Example:* The view that business is only humdrum routine and sordid money-making needs revising, since most of the world's big questions are business questions.
 
-Phrase:           
+---
 
-- (a) of the world's big questions.
-- (b) calling it humdrum routine and sordid money-making.
-- Subordinate clause:
-  - (a) that business is only humdrum routine and sordid money-making.
-  - (b) since most of the world's big questions are business questions.
+## Phrases and Clauses
+
+- **Phrase**: A group of related words used as a part of speech (noun, adjective, or adverb) but **does not contain a subject or predicate**.  
+  *Examples:*  
+  1. of the world's big questions  
+  2. calling it humdrum routine and sordid money-making
+
+- **Clause**: A group of words containing a subject and a predicate.  
+  - **Subordinate clause**: A dependent clause used as a part of speech. Often has an **introductory word** distinguishing it from a principal clause.  
+    *Examples:*  
+    1. that business is only humdrum routine and sordid money-making  
+    2. since most of the world's big questions are business questions
+
+---
+
+### Summary
+
+| Type             | Definition                                                                                 | Example                                                                 |
+|-----------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Simple sentence  | One principal clause                                                                        | To-day most of the world's big questions are business questions.       |
+| Compound sentence| Two or more principal clauses                                                               | Many people still belittle business, calling it humdrum routine and sordid money-making, but this view needs revising. |
+| Complex sentence | One principal clause + one or more subordinate clauses                                      | The view that business is only humdrum routine and sordid money-making needs revising, since most of the world's big questions are business questions. |
+| Phrase           | Group of words used as a part of speech; no subject/predicate                               | of the world's big questions; calling it humdrum routine and sordid money-making |
+| Subordinate clause | Clause used as a part of speech; usually has an introductory word                          | that business is only humdrum routine and sordid money-making; since most of the world's big questions are business questions |
 
