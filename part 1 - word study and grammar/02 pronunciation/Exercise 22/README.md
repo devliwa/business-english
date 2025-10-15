@@ -1,1 +1,88 @@
+# Exercise 22 — Pronounce Carefully "th" and "wh"
 
+Be especially careful of the sounds **th** and **wh**.  
+**Instructions:** Add no syllable to a word and omit none. Consult a dictionary for any word about which you are not certain.
+
+- when  
+- where  
+- while  
+- wharf  
+- which  
+- wheel  
+- wheeze  
+- why  
+- whiff  
+- whence  
+- whet  
+- what  
+- whale  
+- wheat  
+- wheedle  
+- whelp  
+- whimper  
+- whip  
+- whit  
+- whither  
+
+- length  
+- strength  
+- height  
+- width  
+- depth  
+- there  
+- them  
+- eleventh  
+- twelfth  
+- thought  
+- throat  
+- wreaths  
+- paths  
+- months  
+- mouths  
+- myths  
+- breadths  
+- moths  
+- bath  
+- earth  
+
+- diphthong  
+- diphtheria  
+- anesthetic  
+- betrothal  
+- theory  
+- theme  
+- arithmetic  
+- bathe  
+- lathe  
+- believe  
+- bronchitis  
+- government  
+- courteous  
+- different  
+- engine  
+- English  
+- surprise  
+- deaf  
+- children  
+- cruel  
+
+- generally  
+- forget  
+- recognize  
+- hungry  
+- geography  
+- instead  
+- isolated  
+- writing  
+- kettle  
+- language  
+- leisure  
+- volume  
+- column  
+- always  
+- once  
+- twice  
+- arctic  
+- Italian  
+- picture  
+- often  
