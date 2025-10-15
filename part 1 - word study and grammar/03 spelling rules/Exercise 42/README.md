@@ -15,4 +15,20 @@ It follows by inference from **Rule 9** that words ending in silent **e** retain
 - fate → fateful  
 - fierce → fiercely  
 - manage → management  
-- rude → rudeness
+- rude → rudeness  
+
+---
+
+### Exceptions
+
+- truly  
+- duly  
+- wisdom  
+- awful  
+- wholly  
+
+---
+
+### Assignment
+
+Bring to class a list of **twenty words** that retain the final **e** before a suffix beginning with a **consonant**.
